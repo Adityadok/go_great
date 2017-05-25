@@ -7,7 +7,9 @@ Problems Faced  :-   Formation of a url using hash and the public and private ke
 
 App Structure:- AndroidManifest.xml
 
-  Java:- Com.example.backup.marvelchar -ListItem 
+  Java:- Com.example.backup.marvelchar
+  
+                                       -ListItem 
   
                                         MainActivity 
                                         
@@ -15,7 +17,9 @@ App Structure:- AndroidManifest.xml
                                         
                                         SecondActivity
                                         
-  Res:-    Layout:-                     activity_main.xml
+  Res:-    Layout:-    
+  
+                                        activity_main.xml
   
                                         activity_second.xml
                                         
@@ -31,6 +35,8 @@ App Structure:- AndroidManifest.xml
                                         
                                         styles.xml
                                         
-  Gradle                                 build,gradle(Project:MarvelChar)
+  Gradle        
+  
+                                        build,gradle(Project:MarvelChar)
   
                                          build.gradle(Module:app)
